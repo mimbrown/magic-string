@@ -1,6 +1,6 @@
 # Magic String
 
-This is a port of [Rich Haris'](https://github.com/Rich-Harris) [magic-string](https://github.com/Rich-Harris/magic-string) module, written for the Deno/Browser environment.
+This is a port of [Rich Harris'](https://github.com/Rich-Harris) [magic-string](https://github.com/Rich-Harris/magic-string) module, written for the Deno/Browser environment.
 
 ## Differences from the original
 
